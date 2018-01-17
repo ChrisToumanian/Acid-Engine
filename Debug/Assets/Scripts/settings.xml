@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8839-1"?>
+
+<settings>
+	<windowTitle>Acid Engine</windowTitle>
+	<width>480</width>
+	<height>270</height>
+	<resolutionWidth>1920</resolutionWidth>
+	<resolutionHeight>1080</resolutionHeight>
+	<fullscreen>false</fullscreen>
+	<speed>5</speed>
+	<particles>5000</particles>
+	<particleImage>flappybird.png</particleImage>
+	<gravity>0.2</gravity>
+</settings>

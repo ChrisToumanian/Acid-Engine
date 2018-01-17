@@ -1,0 +1,23 @@
+<level>
+	<name>Lavaridge Forest</name>
+	<size>512,512</size>
+	<spawn>234,12</spawn>
+	<map>lavaridgeforestmap.jpg</map>
+	<collisions>lavaridgeforestcollisions.jpg<collisions>
+	<tiles>lavaridgeforesttiles.png</tiles>
+	<objects>
+		<object>
+			<script>sign.cs</script>
+			<location>14,189</location>
+			<info>Beware!</info>
+		</object>
+		<object>
+			<script>mob.cs</script>
+			<location>165,25</location>
+			<level>2</level>
+		</object>
+	</objects>
+	<sounds>
+		<sound>bgmusic.mp3</sound>
+	</sounds>
+</level>
