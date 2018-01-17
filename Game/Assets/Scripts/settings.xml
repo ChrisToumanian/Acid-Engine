@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8839-1"?>
+
+<settings>
+	<windowTitle>SPAAAACE!</windowTitle>
+	<windowBorder>true</windowBorder>
+	<scale>1</scale>
+	<scaleWidth>440</scaleWidth>
+	<scaleHeight>320</scaleHeight>
+	<resolutionWidth>1320</resolutionWidth>
+	<resolutionHeight>960</resolutionHeight>
+	<fullscreen>false</fullscreen>
+	<windowCentered>true</windowCentered>
+	<windowPositionX>0</windowPositionX>
+	<windowPositionY>0</windowPositionY>
+</settings>
