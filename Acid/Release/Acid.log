@@ -1,0 +1,4 @@
+﻿  Scene.cpp
+src\Scene.cpp(84): warning C4018: '<': signed/unsigned mismatch
+src\Scene.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  Acid.vcxproj -> F:\Projects\Programs\Acid Engine\Acid\Release\Acid.lib

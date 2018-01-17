@@ -1,0 +1,14 @@
+﻿  Scene.cpp
+f:\projects\programs\acid engine\acid\acid\src\scene.cpp(81): warning C4018: '<': signed/unsigned mismatch
+f:\projects\programs\acid engine\acid\acid\src\scene.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  Sprite.cpp
+f:\projects\programs\acid engine\acid\acid\src\components\sprite.cpp(12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\projects\programs\acid engine\acid\acid\src\components\sprite.cpp(13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\projects\programs\acid engine\acid\acid\src\components\sprite.cpp(45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Camera.cpp
+f:\projects\programs\acid engine\acid\acid\src\components\camera.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\projects\programs\acid engine\acid\acid\src\components\camera.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\projects\programs\acid engine\acid\acid\src\components\camera.cpp(88): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+f:\projects\programs\acid engine\acid\acid\src\components\camera.cpp(94): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Acid.vcxproj -> F:\Projects\Programs\Acid Engine\Acid\Debug\Acid.lib
